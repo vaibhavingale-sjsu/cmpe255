@@ -164,4 +164,4 @@ Section 5 Project Plan / Task Distribution
 
 Project grading rubric 
 
-![rubrics](rubrics.png)
+![rubrics](docs/rubrics.png)
